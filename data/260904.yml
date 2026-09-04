@@ -7,7 +7,7 @@ about:
   head: cba3b45
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:21:31Z
+  collectedAt: 2026-09-04T21:17:26Z
 timeline:
   created: 2024-07-22
   lastCommit: 2026-02-01
@@ -81,5 +81,68 @@ total:
   openIssue: 25
   commit: 62
 ---
+path: /home/runner/.x-repo/github.com/microsoft/LLM2CLIP
+collectedAt: 2026-09-04T21:17:26Z
+loc:
+  Python:
+    code: 10856
+    comments: 786
+    blanks: 1790
+    files: 58
+  Svg:
+    code: 5404
+    comments: 132
+    blanks: 15
+    files: 13
+  JavaScript:
+    code: 4390
+    comments: 410
+    blanks: 878
+    files: 10
+  Html:
+    code: 1483
+    comments: 110
+    blanks: 170
+    files: 6
+  Css:
+    code: 793
+    comments: 71
+    blanks: 115
+    files: 11
+  Json:
+    code: 376
+    comments: 0
+    blanks: 0
+    files: 15
+  Sh:
+    code: 96
+    comments: 3
+    blanks: 15
+    files: 3
+  Yaml:
+    code: 57
+    comments: 39
+    blanks: 8
+    files: 3
+  Xml:
+    code: 11
+    comments: 0
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 325
+    blanks: 128
+    files: 10
+  Text:
+    code: 0
+    comments: 29
+    blanks: 0
+    files: 3
+total:
+  code: 23516
+  comments: 1907
+  blanks: 3130
+  files: 133
 ---
 
