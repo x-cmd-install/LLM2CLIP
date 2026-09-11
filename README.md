@@ -32,7 +32,7 @@ Total: **23,466** lines of code across **98** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 689 · **Forks**: 33 · **Open issues**: 59 · **Contributors**: 4,272
+- **Stars**: 689 · **Forks**: 33 · **Open issues**: 59 · **Contributors**: 4,275
 
 ## Totals (cumulative)
 
@@ -58,4 +58,4 @@ Install metadata for LLM2CLIP lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:30:00Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:42:02Z._
