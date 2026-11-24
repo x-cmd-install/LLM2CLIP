@@ -32,7 +32,7 @@ Total: **23,466** lines of code across **98** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 695 · **Forks**: 35 · **Open issues**: 59 · **Contributors**: 4,298
+- **Stars**: 695 · **Forks**: 35 · **Open issues**: 59 · **Contributors**: 4,304
 
 ## Totals (cumulative)
 
@@ -42,12 +42,12 @@ Total: **23,466** lines of code across **98** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 0 | 0 | 3 | 0 | 0 | 0 |
-| 90d | 2026-08-25 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last180d | 2026-05-27 | 0 | 1 | 4 | 0 | 0 | 1 |
-| 360d | 2025-11-28 | 0 | 1 | 4 | 1 | 3 | 4 |
-| last720d | 2024-12-03 | 0 | 1 | 4 | 27 | 20 | 16 |
+| 30d | 2026-10-25 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 0 | 0 | 3 | 0 | 0 | 0 |
+| 90d | 2026-08-26 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last180d | 2026-05-28 | 0 | 1 | 4 | 0 | 0 | 1 |
+| 360d | 2025-11-29 | 0 | 1 | 4 | 1 | 3 | 4 |
+| last720d | 2024-12-04 | 0 | 1 | 4 | 27 | 20 | 16 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for LLM2CLIP lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:25:11Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:43:13Z._
